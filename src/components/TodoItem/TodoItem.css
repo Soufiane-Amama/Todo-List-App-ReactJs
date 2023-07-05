@@ -1,0 +1,20 @@
+ul {
+  list-style: none;
+  text-align: start;
+  width: fit-content;
+}
+
+.btnDelet {
+  background-color: brown;
+  color: #fff;
+  cursor: pointer;
+  margin: 10px 20px;
+  border: none;
+  padding: 4px 9px;
+}
+
+input[type="checkbox"] {
+  margin: 0 10px;
+  width: 19px;
+  height: 19px;
+}
